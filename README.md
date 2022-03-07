@@ -1,7 +1,6 @@
 - 👋 Hi, this is @Nooovak from Beijing, China
 - 👀 I’m interested in searching engine, machine learning and deep learning
 - 🌱 I’m currently learning big data in campus
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me by email: novakchen@ruc.edu.cn
 
 <!---
